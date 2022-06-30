@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed_Badsha . Now I'm Working on Githu</h1>
+<h1 align="center">Hi 👋, I'm Mohammed_Badsha . Now I'm Working on Github</h1>
 <h3 align="center">A passionate to become a software developer .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedbadhsa&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedbadhsa" /> </p>
