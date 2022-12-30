@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on [python](https://www.python.org/)
 
 - 🌱 I’m currently learning **python Advance**
+- I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on [W3School](https://www.w3schools.com/)
 
